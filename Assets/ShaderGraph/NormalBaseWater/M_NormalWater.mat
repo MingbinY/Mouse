@@ -27,8 +27,8 @@ Material:
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
-  m_LightmapFlags: 4
-  m_EnableInstancingVariants: 0
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
@@ -144,7 +144,8 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Down_Color: {r: 0.24556214, g: 0.47928992, b: 0.5, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Emission_Color: {r: 0, g: 0.40961614, b: 0.74901956, a: 1}
     - _Scene_Color: {r: 0.9811321, g: 0.9811321, b: 0.9811321, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _Up_Color: {r: 0.3254902, g: 0.63529414, b: 0.6627451, a: 0}
+    - _Up_Color: {r: 0.36786172, g: 0.71799517, b: 0.7490196, a: 0}
   m_BuildTextureStacks: []
